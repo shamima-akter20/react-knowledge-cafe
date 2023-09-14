@@ -1,0 +1,52 @@
+[
+    {
+        "id": "12345",
+        "cover": "https://unsplash.com/photos/x2Z0uNj-Quo",
+        "title": "The Secret Garden",
+        "author": "Emily Smith",
+        "author_img": "https://example.com/emily_smith.jpg",
+        "posted_date": "2023-08-15",
+        "reading_time": 120,   
+        "hashtags": ["#Fantasy", "#Classic", "#Nature"]
+    },
+    {
+        "id": "67890",
+        "cover": "https://example.com/book2_cover.jpg",
+        "title": "Mystery at Midnight",
+        "author": "John Doe",
+        "author_img": "https://example.com/john_doe.jpg",
+        "posted_date": "2023-09-02",
+        "reading_time": 210, 
+        "hashtags": ["#Mystery", "#Suspense", "#Thriller"]
+    },
+    {
+        "id": "24680",
+        "cover": "https://example.com/book3_cover.jpg",
+        "title": "Galactic Adventures",
+        "author": "Jane Johnson",
+        "author_img": "https://example.com/jane_johnson.jpg",
+        "posted_date": "2023-07-20",
+        "reading_time": 240, 
+        "hashtags": ["#ScienceFiction", "#Adventure", "#Space"]
+    },
+    {
+        "id": "13579",
+        "cover": "https://example.com/book4_cover.jpg",
+        "title": "Cooking Delights",
+        "author": "David Williams",
+        "author_img": "https://example.com/david_williams.jpg",
+        "posted_date": "2023-08-05",
+        "reading_time": 90, 
+        "hashtags": ["#Cookbook", "#Recipes", "#Foodie"]
+    },
+    {
+        "id": "55555",
+        "cover": "https://example.com/book5_cover.jpg",
+        "title": "A Journey Through Time",
+        "author": "Sarah Davis",
+        "author_img": "https://example.com/sarah_davis.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": 150, 
+        "hashtags": ["#HistoricalFiction", "#TimeTravel", "#Adventure"]
+    }
+]
